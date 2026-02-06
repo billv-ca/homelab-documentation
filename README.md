@@ -99,15 +99,15 @@ graph
 ---
 ## 🖥️ Software
 
-### 🐧 Proxmox VE
-[Proxmox](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) is a complete, open-source server management platform for enterprise virtualization. It tightly integrates the KVM hypervisor and Linux Containers (LXC), software-defined storage and networking functionality, on a single platform. With the integrated web-based user interface you can manage VMs and containers, high availability for clusters, or the integrated disaster recovery tools with ease.
-
-🔑 Integrated with [Authentik](https://goauthentik.io/)
-
 ### rocm-wyoming-whisper
 [rocm-wyoming-whisper](https://github.com/fyhertz/rocm-wyoming-whisper) A docker image and a few lines of python to use OpenAI whisper with Rhasspy and/or Home Assistant on AMD GPUs with ROCm.
 
 Used with a HomeAssistant voice pipeline for insanely fast speech to text.
+
+### 🐧 Proxmox VE
+[Proxmox](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview) is a complete, open-source server management platform for enterprise virtualization. It tightly integrates the KVM hypervisor and Linux Containers (LXC), software-defined storage and networking functionality, on a single platform. With the integrated web-based user interface you can manage VMs and containers, high availability for clusters, or the integrated disaster recovery tools with ease.
+
+🔑 Integrated with [Authentik](https://goauthentik.io/)
 
 #### Virtual Machines
 - Kubernetes
