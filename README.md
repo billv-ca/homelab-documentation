@@ -144,7 +144,6 @@ Used with a HomeAssistant voice pipeline for insanely fast speech to text.
 |Authentik|Identity|[Authentik](https://goauthentik.io/) is a self-hosted, open-source identity provider.||
 |Cert Manager|Network|[cert-manager](https://cert-manager.io/) is a powerful and extensible X.509 certificate controller for Kubernetes and OpenShift workloads. It will obtain certificates from a variety of Issuers, both popular public Issuers as well as private Issuers, and ensure the certificates are valid and up-to-date, and will attempt to renew certificates at a configured time before expiry.|
 |Grafana|Monitoring|With [Grafana](https://grafana.com/grafana/) you can create, explore, and share all of your data through beautiful, flexible dashboards.|✅|
-|Kubernetes Dashboard|System Tools|[Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/) is a web-based Kubernetes UI.|✅|
 |Longhorn|Storage|[Longhorn](https://longhorn.io/) provides cloud-native persistent block storage.|✅|
 |Mealie|Recipe Storage|[Mealie](https://mealie.io/) is an intuitive recipe management app.|✅|
 |Meshcentral|System Tools|[Meshcentral](https://meshcentral.com/) is an open source, multi-platform, self-hosted, feature packed web site for remote device management with support for Intel AMT.|✅|
