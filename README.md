@@ -93,6 +93,7 @@ graph
     - [1TB SATA III SSD](https://www.amazon.ca/dp/B09WMP5B5N)
     - 1Gbe on board - Used for AMT
     - [2.5Gbe m.2 NIC](https://www.aliexpress.com/item/1005007273213520.html)
+    - [TERRAMASTER D4-320U 4 bay 1U DAS enclosure](https://www.terra-master.com/products/d4-320u)
 
 ### 🔌 Power Supplies
 - [APC Back-UPS ES 350VA](https://www.apc.com/ca/en/product/BE350G-CN/apc-backups-es-350va-120v-without-autoshutdown-software/)
